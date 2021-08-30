@@ -2,8 +2,7 @@ body {
     text-align: center;
     color:#000f08;
     margin: 0;
-    border: 0;
-    padding: 0;
+
 }
 body * {
     margin: 0;
@@ -22,6 +21,7 @@ body * {
     text-align:left;
     background: #a4452c;
     color: #ffffff;
+    padding: 50px;
 }
 .hero-section {
     text-align: right;
@@ -34,4 +34,7 @@ body * {
 }
 section, footer {
     margin-top: 75px;
+}
+footer {
+    padding: 50px;
 }
