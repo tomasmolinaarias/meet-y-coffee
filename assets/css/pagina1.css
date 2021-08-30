@@ -25,7 +25,7 @@ body * {
 }
 .hero-section {
     text-align: right;
-    background-image: url("../img/bg-hero.png");
+    background-image: url("../imagenes/bg-hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: #ffffff;
@@ -37,4 +37,7 @@ section, footer {
 }
 footer {
     padding: 50px;
+}
+.charlas-texto {
+    display: inline-block;
 }
