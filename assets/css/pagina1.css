@@ -74,8 +74,9 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
     color: #ffffff;
-    text-shadow:0.125em 0.25em 0.125em #707070 ;
-    padding: 50px 50px 100px 50px;
+    text-shadow: 0.125em 0.25em 0.125em #707070 ;
+    padding: 6.25rem 3.125rem;
+
 }
 
 section, footer {
@@ -105,3 +106,19 @@ footer {
     margin-left: 5%;
     white-space: nowrap;
 }
+
+nav {
+    text-align: left;
+    padding: 1.25rem 4rem ;
+    position: fixed;
+    width: 100vw;
+}
+
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0 1em;
+}
+
